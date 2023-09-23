@@ -397,7 +397,7 @@ if selected == "About":
         st.write("##### PhonePe is India's leading fintech platform with over 300 million registered users. Using PhonePe, users can send and receive money, recharge mobile, DTH, pay at stores, make utility payments, buy gold and make investments. PhonePe forayed into financial services in 2017 with the launch of Gold providing users with a safe and convenient option to buy 24-karat gold securely on its platform. PhonePe has since launched several Mutual Funds and Insurance products like tax-saving funds, liquid funds, international travel insurance and Corona Care, a dedicated insurance product for the COVID-19 pandemic among others. PhonePe also launched its Switch platform in 2018, and today its customers can place orders on over 600 apps directly from within the PhonePe mobile app. PhonePe is accepted at 20+ million merchant outlets across Bharat")
         
         st.write("**:violet[My Project GitHub link]** ⬇️")
-        st.write("https://github.com/pillowTree3/PhonePe-Pulse-Data-Visualization")
+        st.write("https://github.com/tvinitha/-Phonepe-Pulse-Data-Visualization-and-Exploration.git")
               
     with col2:
         st.write(" ")
