@@ -8,7 +8,7 @@ from streamlit_option_menu import option_menu
  # Connect to MySQL server    
 mydb = sql.connect(host="localhost",
                    user="root",
-                   password="Vini@123",
+                   password="*****",
                    database= "Phonepe"
                   )
 mycursor = mydb.cursor(buffered=True)
